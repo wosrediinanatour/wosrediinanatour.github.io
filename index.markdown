@@ -5,7 +5,7 @@ title: Welcome!
 
 Dear reader! Welcome to my new home page. This site had been intended to be a blog where I post new articles on a regular base. Due to being short of time, I tidied up this page and made it more maintainable by moving to Jekyll/Github. Who knows, maybe there will be some new posts soon...
 
-Short posts and re-tweets are on [twitter](https://www.twitter.com/wosrediinanatour).
+Short posts and re-tweets are on [Twitter](https://www.twitter.com/wosrediinanatour).
 
 # Blog
 
@@ -29,7 +29,7 @@ Telecommunications & electrical engineering:
 # Scientific papers
 
  - [Google scholar profile](https://scholar.google.com/citations?user=pv-gMRsAAAAJ&hl=de&oi=ao)
- - Revision of [Analytic sequential Weiss–Weinstein bounds]({{ site.url }}/downloads/analyticWeissWeinsteinBoundsRevised.pdf) (2016)
+ - Revision of [Analytic sequential Weiss–Weinstein bounds](https://raw.githubusercontent.com/wosrediinanatour/wosrediinanatour.github.io/main/downloads/analyticWeissWeinsteinBoundsRevised.pdf) (2016)
 
 # Favorite quotations
 
