@@ -1,19 +1,16 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default 
 title: Welcome!
 ---
 
-Dear reader! This site was intended to be a blog where I post new articles on a regular base.
-Due to beeing short of time, there are only hand-picked numer of posts. Who knows, maybe there will be new ones soon.
+Dear reader! Welcome to my new home page. This site had been intended to be a blog where I post new articles on a regular base. Due to being short of time, I tidied up this page and made it more maintainable by moving to Jekyll/Github. Who knows, maybe there will be some new posts soon...
+
+Short posts and re-tweets are on [twitter](https://www.twitter.com/wosrediinanatour).
 
 # Blog
 
 {% for post in site.posts %}
- - [{{ post.title }}]({{ post.url }})
-{% endfor %}
+ - [{{ post.title }}]({{ post.url }}) {% endfor %}
 
 # Interests and experiences
 
