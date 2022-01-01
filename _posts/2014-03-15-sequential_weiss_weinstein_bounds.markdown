@@ -7,7 +7,7 @@ title: Sequential Weiss-Weinstein Bounds
 
 # Sequential Weiss-Weinstein Bounds
 
-Sequential Bayesian estimation and detection \[VB07\] inferes temporal evolving *states* in contrast to non-evolving parameters. The sequential Weiss-Weinstein bound is a lower bound on the mean-square-error matrix of *any* Bayesian estimator. This article is based on  [Bayesian Cramer-Rao Bounds and Weiss-Weinstein Bounds](node/200) about non-sequential Bayesian inference and performance bounds. Note that here only a short overview is possible and hence I neglect many details that can be found in one of the references. 
+Sequential Bayesian estimation and detection \[VB07\] inferes temporal evolving *states* in contrast to non-evolving parameters. The sequential Weiss-Weinstein bound is a lower bound on the mean-square-error matrix of *any* Bayesian estimator. This article is based on  [Bayesian Cramer-Rao Bounds and Weiss-Weinstein Bounds]({% post_url 2014-03-19-performance_bounds_for_bayesian_estimators %}) about non-sequential Bayesian inference and performance bounds. Note that here only a short overview is possible and hence I neglect many details that can be found in one of the references. 
 
 # Sequential Bayesian Inference
 
@@ -33,7 +33,7 @@ with following recursion\
 \\\[ \\boldsymbol{A}\_{k} =  \\boldsymbol{D}\_{k+1}^{11} - \\boldsymbol{D}\_{k+1}^{10}  \\boldsymbol{A}\_{k-1}^{-1} \\boldsymbol{D}\_{k+1}^{01}\~, \\\]\
 \\\[  \\boldsymbol{J}\_{k+1}  =      \\boldsymbol{D}\_{k+1}^{22} - \\boldsymbol{D}\_{k+1}^{21} \\boldsymbol{A}\_{k}^{-1} \\boldsymbol{D}\_{k+1}^{12}\~. \\\]    
 
-The relational operator $\succcurlyeq$ indicates that the difference between left and right hand sides is a positive semi-definite matrix. Every element of \$ \\boldsymbol{D}\_{k+1}^{ij}\$ uses the Bhattacharyya coefficient $\rho$ (see elements of $\boldsymbol{J}$ in [Bayesian Cramer-Rao Bounds and Weiss-Weinstein Bounds](node/200) for details) that depends on the probability densities presented above. The columns of $\boldsymbol{H}_k$ are test points. They are abitrary with two exceptions:
+The relational operator $\succcurlyeq$ indicates that the difference between left and right hand sides is a positive semi-definite matrix. Every element of \$ \\boldsymbol{D}\_{k+1}^{ij}\$ uses the Bhattacharyya coefficient $\rho$ (see elements of $\boldsymbol{J}$ in [Bayesian Cramer-Rao Bounds and Weiss-Weinstein Bounds]({% post_url 2014-03-19-performance_bounds_for_bayesian_estimators %}) for details) that depends on the probability densities presented above. The columns of $\boldsymbol{H}_k$ are test points. They are abitrary with two exceptions:
 
 1.  Finite supports of probability distributions induces  box conditions on the test points. 
 2.  If the states are in a finite alphabet, the test points are in a finite alphabet as well (sequential detection). 

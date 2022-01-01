@@ -7,12 +7,15 @@ Dear reader! Welcome to my new home page. This site had been intended to be a bl
 
 Short posts and re-tweets are on [Twitter](https://www.twitter.com/wosrediinanatour).
 
+
 # Blog
 
 {% for post in site.posts %}
  - [{{ post.title }}]({{ post.url }}) {% endfor %}
 
 # Interests and experiences
+
+I am power user of [SailfishOS](https://sailfishos.org/) - *the* Linux distribution for mobiles. Check it out! ;-)
 
 Software development:
  - Linux, Podman/Buildah/Docker
