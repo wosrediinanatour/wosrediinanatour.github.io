@@ -1,33 +1,23 @@
 ---
 layout: default 
-title: Welcome!
+title: Welcome 
 ---
 
-Dear reader! Welcome to my new home page. This site had been intended to be a blog where I post new articles on a regular base. Due to being short of time, I tidied up this page and made it more maintainable by moving to Jekyll/Github. Who knows, maybe there will be some new posts soon...
+Dear reader!
 
-Short posts and re-tweets are on [Twitter](https://www.twitter.com/wosrediinanatour).
+Welcome to my new home page, which is a collection of blog posts, downloads, and links.  
+These days, I have little time, so I post most often on [Twitter](https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}).
 
+Developing under Linux, TMUX and VIM are hard to beat. For Python and C++, I maintain dotfiles [here](https://github.com/wosrediinanatour/dotfiles). The main features are as follows:
+ - Integration of VIM, TMUX, and GIT
+ - Use of a language server protocol (CCLS)
+ - Minimized dependencies
+ - Minimized numbers of VIM plugins
 
 # Blog
 
 {% for post in site.posts %}
  - [{{ post.title }}]({{ post.url }}) {% endfor %}
-
-# Interests and experiences
-
-I am power user of [SailfishOS](https://sailfishos.org/) - *the* Linux distribution for mobiles. Check it out! ;-)
-
-Software development:
- - Linux, Podman/Buildah/Docker
- - C++, Python, Bash, Make, CMake, AWK, LaTeX
- - Embedded to cloud services
- - SIP, RTP
- - SCRUM, waterfall
-
-Telecommunications & electrical engineering:
- - Statistical signal processing
- - Estimation & detection (classification)
- - Wave propagation
 
 # Scientific papers
 
@@ -45,3 +35,4 @@ John von Neumann (1903-1957)
 
 James Clerk Maxwell (1831-1879)
  
+
