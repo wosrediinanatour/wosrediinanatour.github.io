@@ -5,16 +5,11 @@ title: Welcome
 
 Dear reader!
 
-Welcome to my new home page, which is a collection of blog posts, downloads, and links.  
-These days, I have little time, so I post most often on [Twitter](https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}).
-
-Developing under Linux, TMUX and VIM are hard to beat. For Python and C++, I maintain dotfiles [here](https://github.com/wosrediinanatour/dotfiles). The main features are as follows:
- - Integration of VIM, TMUX, and GIT
- - Use of a language server protocol (CCLS)
- - Minimized dependencies
- - Minimized numbers of VIM plugins
+Welcome to my new home page, which is a collection of blog posts, downloads, and links.
 
 # Blog
+
+I post frequently on [Twitter](https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}).
 
 {% for post in site.posts %}
  - [{{ post.title }}]({{ post.url }}) {% endfor %}
