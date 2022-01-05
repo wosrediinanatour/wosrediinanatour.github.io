@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: TMUX/VIM 
+title: Dotfiles
 ---
 
 Developing under Linux, TMUX and VIM are hard to beat. For Python and C++, I maintain dotfiles [here](https://github.com/wosrediinanatour/dotfiles). The main features are as follows:

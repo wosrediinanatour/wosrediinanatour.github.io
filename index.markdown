@@ -30,4 +30,6 @@ John von Neumann (1903-1957)
 
 James Clerk Maxwell (1831-1879)
  
+> Ich brauche Informationen. Eine Meinung bilde ich mir selbst.
 
+Charles Dickens (1812-1870)
