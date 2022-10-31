@@ -17,7 +17,7 @@ I post frequently on [Twitter](https://www.twitter.com/{{ site.twitter_username|
 # Scientific papers
 
  - [Google scholar profile](https://scholar.google.com/citations?user=pv-gMRsAAAAJ&hl=de&oi=ao)
- - Revision of [Analytic sequential Weiss–Weinstein bounds](https://raw.githubusercontent.com/wosrediinanatour/wosrediinanatour.github.io/main/downloads/analyticWeissWeinsteinBoundsRevised.pdf) (2016)
+ - Revision of [Analytic sequential Weiss–Weinstein bounds]({% link /downloads/analyticWeissWeinsteinBoundsRevised.pdf %}) (2016)
 
 # Favorite quotations
 

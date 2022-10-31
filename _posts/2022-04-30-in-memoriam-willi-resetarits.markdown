@@ -2,14 +2,15 @@
 layout: post
 usemathjax: false
 lang: en
-title: Ein ganz persönlicher Nachruf: In memoriam Willi Resetarits
+title: In memoriam Willi Resetarits
 ---
+# Ein ganz persönlicher Nachruf: In memoriam Willi Resetarits
 
 Willi Resetarits Unfall war ein Schock. Zuerst erfuhr ich von seinem Tod per Whatsapp von meinem Schwager. Schnell war es gegoogelt und bestätigt. Realisiert habe ich es erst Stunden später, danach folgten Tage der Niedergeschlagenheit. Und viele In-memoriam-Sendung in Radio und Fernsehen.
 
 Es war wie der Tod eines alten Bekannten, obwohl ich ihn niemals wirklich persönlich gesprochen hatte. Aber Willi Resetarits war mein musikalischer Begleiter seit frühester Jugendtage. Dies entspricht immerhin ungefähr einem viertel Jahrhundert. Keine andere Band oder kein anderer Musiker hat mir in so vielen Lebenssituationen und Lebenskrisen Trost & Rat gespendet wie Willi Resetarits aka Kurt Ostbahn. Das lag einerseits an ihm selber als Mensch, an seiner großen Bandbreite an Musikgenres, an seinen Mitmusikanten, und an den Songtexten. Letztere waren unter anderem von Günter Brödl oder Ernst Molden und schienen maßgeschneidert für Willi Resetarits zu sein. 
 
-# Der Ostbahn-Virus
+## Der Ostbahn-Virus
 
 Im Jahr 1995 wurde ich vom Ostbahn-Kurti-Fieber gepackt. Ich kenne viele, die sich schon zu Chefpartie-Zeiten ansteckten; bei mir sollte es zu Beginn der Kombo-Zeiten sein. Die CD "Ein Abend im Espresso Rosi" kam heraus, und der Virus hatte mich befallen. Die CD ist ein durchwegs stimmiges Konzeptalbum von Mastermind Günter "Trainer" Brödl. Die Musik ist für das Album typisch eher blueslastig. Die Songtexte sind über Menschen, denen das Leben mitgespielt hatte und keine Erfolgsgeschichten. Sehr geerdet könnte man sagen. 
 
@@ -28,7 +29,7 @@ Krampusrummel hätte man locker in einen großen Konzert zusammenfassen können.
 Die Konzerte konnten schon einmal fünf oder sechs Zugaben mit je ein paar Liedern haben. Acht waren Rekord. Vierstündige Konzerte waren dabei keine Seltenheit. 
 Das letzte Ostbahn-Kurti-Konzert zu Silvester dürfte sehr emotional gewesen sein - ich ärgere mich noch heute nicht dabei gewesen zu sein.
 
-# Willi Resetarits
+## Willi Resetarits
 
 Aber Willi Resetarits war nicht nur Kurt Ostbahn und man darf ihn nicht nur auf diese Figur reduzieren: Er hatte viele neue Projekte wie beispielsweise den Stubnblues oder Alben mit Ernst Molden. Diesen waren im Vergleich zur Ostbahn-Kurti-Zeit sehr ruhig. Aber die Kombination aus guten Texten und Willi Resetarits Stimme hat etwas magisches. Man kann einfach nicht weghören. Man entdeckt immer wieder etwas neues wenn man in ältere Alben hineinhört. 
 

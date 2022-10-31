@@ -2,8 +2,10 @@
 layout: post
 usemathjax: false
 lang: en
-title: How to upgrade Fedora Silverblue: rpm-ostree, Flatpak, and Toolbox
+title: How to upgrade Fedora Silverblue
 ---
+
+# How to upgrade Fedora Silverblue: rpm-ostree, Flatpak, and Toolbox
 
 Upgrading Fedora Silverblue consists of three parts:
 1. Ostree 
