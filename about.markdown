@@ -5,14 +5,16 @@ title: About
 
 I am a power user ("sailor") of [SailfishOS](https://sailfishos.org/) - *the* Linux distribution for mobiles. It even supports Android apps. Check it out! ;-)
 
-Software development:
- - From embedded Linux to Linux containers (buildah, Podman, Docker)
- - From Waterfall to SCRUM
- - C++ (C++20), C, Python, Bash, Make, CMake, AWK, LaTeX,...
- - Protocols for communication
+Info in buzz words:
+- Voice communication systems (WebRTC, SIP, RTP,...)
+- Safety-critical systems
+- Linux: namespaces -> containers -> pods -> K8s
+- Software engineering (C++23, but that's not all)
+- Software and system architecture
+- Open source
+- Railways
 
-Telecommunications & electrical engineering:
- - Statistical signal processing
- - Estimation & detection (classification)
- - Wave propagation
+Background:
+- (Stochastic) signal processing, estimation & detection, mathematics
+- Electrical engineering and high-frequency engineering
 
